@@ -1,2 +1,4 @@
 # week2-102-demo
-In class git workshop demo
+Varada Pothera
+11/19/2019
+Git Workshop Week 2
